@@ -1,0 +1,40 @@
+﻿  main.cpp
+  UserInterface.cpp
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(68,171): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(68,119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(68,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(68,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(74,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(74,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(74,8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(75,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(75,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(75,8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(80,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(81,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(81,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(108,171): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(108,119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(108,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(108,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(113,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(113,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(113,8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(114,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(114,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(114,8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(120,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(121,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\PB1\UserInterface.cpp(121,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+UserInterface.obj : error LNK2019: unresolved external symbol cleardevice referenced in function "void __cdecl runGraph(class Entity)" (?runGraph@@YAXVEntity@@@Z)
+UserInterface.obj : error LNK2019: unresolved external symbol line referenced in function "void __cdecl runGraph(class Entity)" (?runGraph@@YAXVEntity@@@Z)
+UserInterface.obj : error LNK2019: unresolved external symbol lineto referenced in function "void __cdecl drawLine(int,int,int,int,int,int,int,char * const)" (?drawLine@@YAXHHHHHHHQEAD@Z)
+UserInterface.obj : error LNK2019: unresolved external symbol rectangle referenced in function "void __cdecl runGraph(class Entity)" (?runGraph@@YAXVEntity@@@Z)
+UserInterface.obj : error LNK2019: unresolved external symbol moveto referenced in function "void __cdecl drawLine(int,int,int,int,int,int,int,char * const)" (?drawLine@@YAXHHHHHHHQEAD@Z)
+UserInterface.obj : error LNK2019: unresolved external symbol setcolor referenced in function "void __cdecl drawLine(int,int,int,int,int,int,int,char * const)" (?drawLine@@YAXHHHHHHHQEAD@Z)
+UserInterface.obj : error LNK2019: unresolved external symbol setlinestyle referenced in function "void __cdecl runGraph(class Entity)" (?runGraph@@YAXVEntity@@@Z)
+UserInterface.obj : error LNK2019: unresolved external symbol initwindow referenced in function "void __cdecl openGraph(class Entity)" (?openGraph@@YAXVEntity@@@Z)
+UserInterface.obj : error LNK2019: unresolved external symbol outtextxy referenced in function "void __cdecl drawLine(int,int,int,int,int,int,int,char * const)" (?drawLine@@YAXHHHHHHHQEAD@Z)
+graphics.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Alina\Desktop\Files\Codes\C++\LAB6 true\PB1\x64\Debug\PB1.exe : fatal error LNK1120: 9 unresolved externals
